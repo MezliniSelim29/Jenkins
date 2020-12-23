@@ -1,2 +1,2 @@
-this readme file it's just simple task in tutriol 
+this readme file it's just simple task in tutorial 
 thank you for the check  :) 
